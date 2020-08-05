@@ -2,6 +2,9 @@
 August Challenge for beginners
 
 ## Power of 4 (Method-1)
+  Given an integer (signed 32 bits), write a function to check whether it is a power of 4.
+
+
 
 ```
 class Solution {
@@ -20,6 +23,8 @@ class Solution {
 
 ## Power of 4 (Method-2)
 
+![alt-text](power-of-4.png)
+
 ```
 class Solution {
     public boolean isPowerOfFour(int num) {
@@ -37,3 +42,4 @@ class Solution {
 ```
 * Time Complexity: O(1)
 * Space Complexity: O(1)
+j
